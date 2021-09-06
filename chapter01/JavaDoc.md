@@ -17,15 +17,15 @@ Java 支持三种注释方式。前两种分别是 // 和 /* */，第三种被�
 javadoc -d <s路径> -<需要生成的doc标签> <*.java>
 ```
 
-![](D:\Java\eclipse\pic\javadoc1.png)
+![](https://hexo-4grmu8ecde66adf2-1306730064.tcloudbaseapp.com/pic/javadoc1.png)
 
 随后会在上述文件夹里生成很多文件，点击index.html
 
-![](D:\Java\eclipse\pic\javadoc2.png)
+![](https://hexo-4grmu8ecde66adf2-1306730064.tcloudbaseapp.com/pic/javadoc2.png)
 
 详细内容如下
 
-![](D:\Java\eclipse\pic\javadoc3.png)
+![](https://hexo-4grmu8ecde66adf2-1306730064.tcloudbaseapp.com/pic/javadoc3.png)
 
 ## JavaDoc标签
 

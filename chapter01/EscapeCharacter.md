@@ -21,5 +21,5 @@ public class ChangeChar {
 }
 ```
 
-![](D:\Java\eclipse\pic\EscapeCharacterPractice.png)
+![](https://hexo-4grmu8ecde66adf2-1306730064.tcloudbaseapp.com/pic/EscapeCharacterPractice.png)
 
