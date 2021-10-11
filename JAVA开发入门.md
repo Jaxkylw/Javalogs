@@ -55,9 +55,9 @@ java解释执行
 
 这个不过多阐述，直接放图(注意路径)
 
-![CLASSPATH](D:\Java\eclipse\pic\1-java1.png)
-![JAVAHOME](D:\Java\eclipse\pic\1-java2.png)
-![PATH](D:\Java\eclipse\pic\1-java3.png)
+![CLASSPATH](https://hexo-4grmu8ecde66adf2-1306730064.tcloudbaseapp.com/pic/1-java1.png)
+![JAVAHOME](https://hexo-4grmu8ecde66adf2-1306730064.tcloudbaseapp.com/pic/1-java2.png)
+![PATH](https://hexo-4grmu8ecde66adf2-1306730064.tcloudbaseapp.com/pic/1-java3.png)
 
 
 END
